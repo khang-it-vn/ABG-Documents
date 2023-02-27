@@ -2,7 +2,7 @@
 - Việc tạo token BEP-20 tương đối đơn giản và dễ hiểu, ngay cả khi bạn chưa có bất kỳ kinh nghiệm lập trình trước đó. CoinTool cung cấp giao diện người dùng trực quan để tạo token BEP-20 của bạn. Bạn chỉ cần cung cấp tên token, ký hiệu và một vài thông số khác để tạo thành công token BEP-20.
 - Có nhiều cách nhận và lưu trữ Token (Binance & Trust Wallet).
 
-
+https://cointool.app/createToken/bsc
 https://codluck.com/vi/cau-truc-cua-mot-ung-dung-web3-dapp/ 
 
 Các chức năng muốn thực hiện:

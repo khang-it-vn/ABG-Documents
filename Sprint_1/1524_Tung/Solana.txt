@@ -1,0 +1,13 @@
+- Solana là một nền chuỗi blockchain đơn khối được biết đến với tốc độ và hiệu suất hoạt động cao.
+- Đây là blockchain web-scale đầu tiên trên thế giới.
+- Các ví lưu trữ đồng SOL:
++ Ví sàn: Gồm tất cả các sàn giao dịch hỗ trợ SOL, như Binance, By Bit ,...
++ Ví Web gồm có: SolFlare, Sollet, Math Wallet…
++ Ví Mobile: Coin 98 Wallet, Trust Wallet…
++ Ví cứng gồm có: Ví Ledger Nano, ví Trezo…
+-Lợi thế:
++ Tốc độ giao dịch cực nhanh
++ Phí giao dịch thấp
++ Hỗ trợ đa ngôn ngữ lập trình: RUST, C, C ++ và Libra’s Move.
++ Dễ dàng mở rộng
++ Bảo mật cấp độ doanh nghiệp

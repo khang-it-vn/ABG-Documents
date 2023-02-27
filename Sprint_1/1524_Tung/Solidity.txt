@@ -1,0 +1,35 @@
+- Solidity là một ngôn ngữ lập trình để tạo nên các smart contract (hợp đồng thông minh) trên nền tảng Ethereum.
+- Là một nền tảng hợp đồng thông minh phi tập trung hàng đầu trong lĩnh vực crypto.
+- Cơ bản có thể xây dựng NFT marketplace (chợ nghệ thuật kỹ thuật số), Metaverse, sàn giao dịch phi tập trung (DEX), 
+sàn tài chính phi tập trung (DeFi)... trên Ethereum.
+- Solidity là một ngôn ngữ lập trình cấp cao, đối tượng sử dụng của ngôn ngữ Solidity là những lập trình viên muốn 
+phát triển các ứng dụng trên Ethereum.
+- Đây là ngôn ngữ lập trình hướng contract thuộc hệ sinh thái của Ethereum. 
+
+- Các công cụ mà Solidity cung cấp:
++ Solgraph: Đây là công cụ giúp các lập trình viên phát hiện được những lỗ hổng về hệ thống bảo mật. Nó còn có thể 
+hiển thị các luồng chức năng điều kiện của Solidity contract bằng đồ thị DOT
++ Solidity REPL: Đây là công cụ được sử dụng để viết các source code trên Solidity console.
++ EVM lab: Cung cấp đầy đủ câu lệnh cũng như cú pháp hữu ích cho các nhà phát triển. Nó được coi là bộ công cụ hữu 
+ích nhất mà Solidity mang lại.
++ Evmdis: Công cụ này giúp thực hiện các phép phân tích tĩnh trên bytecode giúp nâng cao mức trừu tượng so với EVM thô.
+
+- Một số nền tảng blockchain có hỗ trợ Solidity:
++ Ethereum
++ Binance Smart Chain
++ Ethereum Classic
++ Tron
++ Hedera Hashgraph
++ Avalanche
+
+- Các tiêu chuẩn ERC bao gồm:
+ERC20
+ERC165
+ERC721
+ERC223
+ERC621
+ERC777
+ERC827
+ERC884
+ERC865
+ERC1155

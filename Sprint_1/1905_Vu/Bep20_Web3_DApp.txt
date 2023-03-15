@@ -10,4 +10,3 @@ Các chức năng muốn thực hiện:
 - Có thể rút tiền từ ví về ngân hàng đã liên kết.
 - Trang chủ thì trực quan hết các chức năng của project, nếu mà mình làm thành công thì quay một video demo để lên trang chủ, giống như là video hướng dẫn á.
 - Gòi làm một trang Hỗ trợ: nhận và phản hồi các reply của user.
-(Bot chat hoặc là AI kkkkk) 

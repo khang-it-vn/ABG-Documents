@@ -21,6 +21,7 @@ hiển thị các luồng chức năng điều kiện của Solidity contract b�
 + Tron
 + Hedera Hashgraph
 + Avalanche
++ ...
 
 - Các tiêu chuẩn ERC bao gồm:
 ERC20

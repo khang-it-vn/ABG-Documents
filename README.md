@@ -51,11 +51,15 @@ Và ví điện tử cho người dùng.
 ## Sprint 4. Setup - Tìm hiểu công nghệ
 ##### Backend - Nodejs
 [Link project source code](https://github.com/nguyenhoangkhangithutech/Node-BE-ABG)
+> Tìm hiểu cách tạo api với nodejs, chuẩn resful api, jwt token. @TRANMINHTUNG181101 
 ##### Mã nguồn mở - PHP
 [Link project source code](https://github.com/nguyenhoangkhangithutech/PHP-BE-ABG)
+> Tìm hiểu php cơ bản, crud database 
 ##### Ngôn ngữ phát triển ứng dụng mới - ReactJs
 [Link project source code](https://github.com/nguyenhoangkhangithutech/REACT-FE-ABG)
+> Tìm hiểu 
 ##### Chuyên đề công nghệ phần mềm - lĩnh vực kinh tế - Java (Spring)
 [Link project source code](https://github.com/nguyenhoangkhangithutech/JAVA-FE-ABG)
+
 ## Sprint 5. 
 ## Sprint 6. 

@@ -33,7 +33,14 @@ Và ví điện tử cho người dùng.
   + pm: jira, git
   + 
   
-## Sprint 2. 
+## Sprint 2. Thiết kế ERD
+##### 1. Tìm hiểu chi tiết về blockchain
+##### 2. Tham khảo các phần mềm đang có hiện tại
+> Trust Wallet, Metamask
+##### 3. Thiết kế Usecase
+##### 4. Thiết kế flow ui
+##### 5. Thiết kế ERD
+
 ## Sprint 3. 
 ## Sprint 4. 
 ## Sprint 5. 

@@ -41,7 +41,13 @@ Và ví điện tử cho người dùng.
 ##### 4. Thiết kế flow ui
 ##### 5. Thiết kế ERD
 
-## Sprint 3. 
+## Sprint 3. Thiết kế UML, UI
+##### 1. Thiết kế use case diagram
+##### 2. Thiết kế activity diagram
+##### 3. Thiết kế sequence diagram
+##### 4. Thiết kế class diagram
+##### 5. Thiết kế UI
+
 ## Sprint 4. 
 ## Sprint 5. 
 ## Sprint 6. 

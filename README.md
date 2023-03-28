@@ -48,7 +48,7 @@ Và ví điện tử cho người dùng.
 ##### 4. Thiết kế class diagram
 ##### 5. Thiết kế UI
 
-## Sprint 4. Coding
+## Sprint 4. Setup - Tìm hiểu công nghệ
 ##### Backend - Nodejs
 [Link project source code](https://github.com/nguyenhoangkhangithutech/Node-BE-ABG)
 ##### Mã nguồn mở - PHP

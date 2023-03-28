@@ -51,15 +51,23 @@ Và ví điện tử cho người dùng.
 ## Sprint 4. Setup - Tìm hiểu công nghệ
 ##### Backend - Nodejs
 [Link project source code](https://github.com/nguyenhoangkhangithutech/Node-BE-ABG)
-> Tìm hiểu cách tạo api với nodejs, chuẩn resful api, jwt token. @TRANMINHTUNG181101 
+> Tìm hiểu cách tạo api với nodejs, chuẩn resful api, jwt token. [@TRANMINHTUNG181101](https://github.com/TRANMINHTUNG181101)
+ [@duongtienvu0601](https://github.com/duongtienvu0601)
+ [@HuynhThoa](https://github.com/HuynhThoa) [@nguyenhoangkhangithutech](https://github.com/nguyenhoangkhangithutech)
+
 ##### Mã nguồn mở - PHP
 [Link project source code](https://github.com/nguyenhoangkhangithutech/PHP-BE-ABG)
 > Tìm hiểu php cơ bản, crud database 
+>  [@HuynhThoa](https://github.com/HuynhThoa) [@nguyenhoangkhangithutech](https://github.com/nguyenhoangkhangithutech) [@TRANMINHTUNG181101](https://github.com/TRANMINHTUNG181101)
 ##### Ngôn ngữ phát triển ứng dụng mới - ReactJs
 [Link project source code](https://github.com/nguyenhoangkhangithutech/REACT-FE-ABG)
-> Tìm hiểu 
+> Tìm hiểu react, jsx, component(function, class), state, props, lifecycle  [@duongtienvu0601](https://github.com/duongtienvu0601)
 ##### Chuyên đề công nghệ phần mềm - lĩnh vực kinh tế - Java (Spring)
 [Link project source code](https://github.com/nguyenhoangkhangithutech/JAVA-FE-ABG)
+> Tìm hiểu spring boot, hibernate, thymeleaf, maven
+[@TRANMINHTUNG181101](https://github.com/TRANMINHTUNG181101)
+ [@duongtienvu0601](https://github.com/duongtienvu0601)
+ [@HuynhThoa](https://github.com/HuynhThoa) [@nguyenhoangkhangithutech](https://github.com/nguyenhoangkhangithutech)
 
 ## Sprint 5. 
 ## Sprint 6. 

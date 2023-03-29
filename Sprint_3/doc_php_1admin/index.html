@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" type="image/png" href="https://th.bing.com/th/id/OIP.evKumc-BJD_oCdJKVbFHZQHaHa?w=173&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
+    
+    <link href="https://cdn.ckeditor.com/4.16.1/standard/contents.css" rel="stylesheet">
+
+    <!-- <script src="https://cdn.ckeditor.com/4.21.0/standard/ckeditor.js"></script> -->
+</head>
+
+<body>
+    <header>
+        <h1 style="text-align: center;">Document ABG Banking</h1>
+    </header>
+
+    <div class="container">
+        <aside class="sidebar">
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search...">
+            </div>
+
+            <h2><a href="#">Add Posts</a></h2>
+
+            <h2><a href="#">List Of Posts</a></h2>
+        </aside>
+
+        <main class="content">
+            <h1>Document Add/Delete/Edit</h1>
+
+        <!-- Add Document -->
+        <h2>Add Document</h2>
+        <form id="add-doc-form">
+            <label for="doc-title">Title:</label>
+            <input type="text" id="doc-title" name="doc-title"><br><br>
+
+            <label for="doc-content">Content:</label>
+            <textarea class="ckeditor" name="doc-content"></textarea><br><br>
+
+            <button type="submit">Save</button>
+        </form>
+
+        <!-- Show Documents -->
+        <h2>Show Documents</h2>
+        <ul id="doc-list">
+        </ul>
+
+        <!-- Edit Document -->
+        <h2>Edit Document</h2>
+        <form id="edit-doc-form" style="display:none">
+            <label for="edit-doc-title">Title:</label>
+            <input type="text" id="edit-doc-title" name="edit-doc-title"><br><br>
+
+            <label for="edit-doc-content">Content:</label>
+            <textarea class="ckeditor" name="edit-doc-content"></textarea><br><br>
+
+            <button type="submit">Save Changes</button>
+        </form>
+        </main>
+    </div>
+
+    <footer>
+        <p>Bản quyền © 2023 - Trang tài liệu</p>
+    </footer>
+    
+    <script src="https://cdn.ckeditor.com/4.16.1/standard/ckeditor.js"></script>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>

@@ -42,7 +42,7 @@ Và ví điện tử cho người dùng.
 ##### 5. Thiết kế ERD
 
 ## Sprint 3. Thiết kế UML, UI
-##### 1. Thiết kế use case diagram
+##### 1. Thiết kế use case diagram cấp 1, 2 
 ##### 2. Thiết kế activity diagram
 ##### 3. Thiết kế sequence diagram
 ##### 4. Thiết kế class diagram

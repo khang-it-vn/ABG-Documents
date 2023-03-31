@@ -69,6 +69,15 @@ Và ví điện tử cho người dùng.
  [@duongtienvu0601](https://github.com/duongtienvu0601)
  [@HuynhThoa](https://github.com/HuynhThoa) [@nguyenhoangkhangithutech](https://github.com/nguyenhoangkhangithutech)
 
-## Sprint 5. Coding
+## Sprint 5. Coding - Hiện thực hóa chức năng
+##### 1. Hiên thực hóa chức năng đăng nhập, đăng ký bằng google
+##### 2. Hiện thực hóa chức năng tạo tài khoản trên sàn eth
+##### 3. Hiên thực hóa chức năng quản lý ví(kiểm tra số dư, chuyển tiền, nhân tiền, xem lịch sử)
+##### 4. Hiện thực hóa chức năng quản lý document(xem danh sách document, thêm, xóa sửa)
+##### 5. Hiện thực hóa chức năng quản lý sản phẩm(xem danh sách sản phẩm, thêm, xóa sửa)
+##### 6. Hiện thực hóa chức năng cho developer(đọc document, tìm kiếm document)
+##### 7. Hiện thực hóa chức năng cho khách hàng(xem danh sách sản phẩm, thêm, xóa, sửa sản phẩm, thêm, xóa loại sản phẩm)
+##### 8. Hiện thực hóa chức năng cho nhà đầu tư( xem thông tin giá thị trường của các đồng coin tại thời điểm hiện tại).
 
-## Sprint 6. 
+## Sprint 6. Testing
+

@@ -25,10 +25,10 @@ Và ví điện tử cho người dùng.
   + api xem lịch sử giao dịch.<br>
   
 ##### 3. Công nghệ sử dụng
-  + Frontend: PHP, REACTJS, Android
+  + Frontend: PHP, REACTJS, Spring boot
   + Backend: Nodejs (16.16)
   + Database: MySQL 
-  + api resource: https://binance-docs.github.io/apidocs/websocket_api/en/#change-log
+  + api resource: https://binance-docs.github.io/apidocs/websocket_api/en/#change-log, web3js, etherscan
   + ui/ux: figma
   + pm: jira, git
   + 

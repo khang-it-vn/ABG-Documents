@@ -1,5 +1,5 @@
 # ABG-Documents
-ABG-Documents Tài liệu hệ thống cổng thanh toán điện tử
+ABG-Documents Tài liệu quản lý triển khai hệ thống cổng thanh toán tiền điện tử
 
 ## Sprint 1. Tìm hiểu yêu cầu, tài liệu kỹ thuật về hệ thống cổng thanh toán điện tử
 
